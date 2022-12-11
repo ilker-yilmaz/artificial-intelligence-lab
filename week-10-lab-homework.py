@@ -1,3 +1,4 @@
+# SORU - 2
 # Heart verisetine ait verileri kullanarak bir ESA mimarisi geliştiriniz.
 # Geliştirmiş olduğunuz modelin doğrulama (accuracy), F1-skor ve kayıp değerlerini bulunuz.
 # Bulduğunuz bu değerleri grafik üzerinde gösteriniz.
